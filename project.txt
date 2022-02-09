@@ -1,0 +1,7 @@
+Labellemek için bir fonksiyon oluşturmamız lazım.
+
+1- El yazısının olduğu sayfa okutulur
+2- Kelimeler tek tek ekrana bastırılır.
+3- Gördüğümüz kelimenin ne olduğunu soran bir kutucuk oluşturulur (input da olabilir)
+4- kelime yazılır ve ilgili klasöre kaydedilir.
+5- Tüm sayfadaki kelimeler için bu yapılır.
