@@ -6,8 +6,8 @@ Created on Tue Feb 8 2022
 
 import streamlit as st
 from PIL import Image
-import cv2
-import numpy as np
+# import cv2
+# import numpy as np
 
 def main():
     config()
