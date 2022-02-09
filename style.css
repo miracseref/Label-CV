@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+/* Container */
+.css-12oz5g7 {
+    padding: 2rem 0 0 0;
+}
+
+/* Title */
+.css-10trblm {
+    font-size: 4.5rem;
+    margin-bottom: 2rem;
+}
+
+/* Subheader */
+.effi0qh0 {
+    font-size: 1.5rem;
+}
+
+/* Image Loader's Title */
+.css-9ycgxx {
+    text-align: left;
+}
+
+/* Hide Streamlit's default components */
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
