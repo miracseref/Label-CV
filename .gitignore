@@ -3,5 +3,5 @@ data/
 __pycache__/
 .DS_Store/
 src/__pycache__/
-project.txt/
-roi.py/
+dataset.db
+src/raw_images.db
