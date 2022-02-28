@@ -18,8 +18,8 @@ st.set_page_config(page_title = 'ZekAI | Yazı Etiketleme',
 
                     
 #Add additional CSS
-with open('src/style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+# with open('src/style.css') as f:
+#     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 st.markdown("""
 # Yazı Etiketleme
