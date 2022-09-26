@@ -1,3 +1,3 @@
 # labeling
 
-This is a web app used to label words cropped from a form.
+This is a web app that labels words cropped from a form.
